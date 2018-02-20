@@ -1,7 +1,7 @@
 ### num2word
-#Convert number to word
+# Convert number to word
 
-###کتابخانه ای جهت تبدیل اعداد به حروف
+### کتابخانه ای جهت تبدیل اعداد به حروف
 
 ```
 SEE index.php
