@@ -1,6 +1,6 @@
 <?php
 require_once ("num2word.php");
-$num2word = new num2word;
+$num2word = new Num2word;
 echo $num2word->convert(123);
 echo "<br>";
 echo $num2word->convert(3000000020);

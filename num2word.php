@@ -4,7 +4,7 @@
  * @version 1.0.1;
  * @date 1395-05-15
  */
-class num2word
+class Num2word
 {
 	public $yekan,$dahgan,$dahtadahta,$sadtasadta;
 	public $value;
